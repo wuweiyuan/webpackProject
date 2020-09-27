@@ -1,0 +1,14 @@
+body{
+    color: chartreuse;
+}
+body{
+    background-color:grey;
+    font-size: 30px;
+    /* transform: rotate(45deg); */
+    
+} 
+body div {
+  border: 1px solid orange;
+  background: url(img/490f45560c6c7e73a5aeb53999f3c796.png);
+}
+

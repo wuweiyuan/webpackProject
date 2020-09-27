@@ -1,0 +1,7 @@
+@import './a.css'; 
+body{
+    background-color:grey;
+    font-size: 30px;
+    /* transform: rotate(45deg); */
+    
+} 
